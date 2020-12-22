@@ -148,8 +148,7 @@ mentioned in FaceForensics++ paper.
 ![model3](/images/model3.png)
 ![model33](/images/model33.png)
 
-for a more in depth explanation of these results, please refer to the [article](https://www.dessa.com/post/deepfake-detection-that-actually-works) we published. More results can be seen in the 
-[interactive UI](http://deepfake-detection.dessa.com/projects)
+
 
 ## Help improve this technology
 
