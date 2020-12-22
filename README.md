@@ -149,12 +149,3 @@ mentioned in FaceForensics++ paper.
 ![model33](/images/model33.png)
 
 
-
-## Help improve this technology
-
-Please feel free to fork this work and keep pushing on it.
-
-If you also want to help improving the deepfake detection datasets, please share your real/forged samples at foundations@dessa.com.
-
-## LICENSE
-© 2020 Square, Inc. ATLAS, DESSA, the Dessa Logo, and others are trademarks of Square, Inc. All third party names and trademarks are properties of their respective owners and are used for identification purposes only.
